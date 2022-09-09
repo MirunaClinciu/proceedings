@@ -1,0 +1,1150 @@
+- abstract: ''
+  attachments:
+  - file: attachments/1.zip
+    open_review_id: /attachment/b3423b0e847d31725139268a96a5893f1d0241d5.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: zhaohan@mines.edu
+    first_name: Zhao
+    homepage: https://zhaohanphd.com/
+    institution: Colorado School of Mines
+    last_name: Han
+    name: Zhao Han
+    username: ~Zhao_Han1
+  - emails: polinka.minj@gmail.com
+    first_name: Polina
+    institution: Colorado School of Mines
+    last_name: Rygina
+    name: Polina Rygina
+    orcid: https://orcid.org/0000-0001-7972-0577
+    username: ~Polina_Rygina1
+  - dblp_id: https://dblp.org/pid/45/740
+    emails: twilliams@mines.edu
+    first_name: Thomas
+    homepage: http://people.mines.edu/~williams/
+    institution: Colorado School of Mines
+    last_name: Williams
+    name: Thomas Williams
+    username: ~Thomas_Williams1
+  decision: Accept (Oral)
+  file: 1.pdf
+  id: 1
+  openreview_id: None
+  pdf_file: ''
+  title: Evaluating Referring Form Selection Models in Partially-Known Environments
+- abstract: ''
+  attachments:
+  - file: attachments/5.zip
+    open_review_id: /attachment/25291845595f517a1571e6bb337e3343f7c6d6ab.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: lamanov.dmitry@huawei.com
+    first_name: Dmitry
+    google_scholar_id: https://scholar.google.com/citations?user=s-tLvlQAAAAJ
+    institution: Huawei Noah's Ark Lab
+    last_name: Lamanov
+    name: Dmitry Lamanov
+    username: ~Dmitry_Lamanov1
+  - dblp_id: https://dblp.org/pid/298/1077.html
+    emails: pavel.burnyshev@skoltech.ru
+    first_name: Pavel
+    last_name: Burnyshev
+    name: Pavel Burnyshev
+    orcid: https://orcid.org/0000-0002-6794-2567
+    username: ~Pavel_Burnyshev1
+  - dblp_id: https://dblp.org/pid/236/1331.html
+    emails: ekaterina.l.artemova@gmail.com
+    first_name: Katya
+    google_scholar_id: https://scholar.google.com/citations?user=G0lCb3wAAAAJ&hl=en
+    homepage: https://www.hse.ru/en/staff/artemova
+    institution: Higher School of Economics
+    last_name: Artemova
+    name: Katya Artemova
+    semantic_scholar_id: https://www.semanticscholar.org/author/E.-Artemova/13033978
+    username: ~Katya_Artemova1
+  - dblp_id: https://dblp.org/pid/186/6505
+    emails: valentin.malykh@phystech.edu
+    first_name: Valentin
+    google_scholar_id: https://scholar.google.com/citations?user=Q-DWwNAAAAAJ&hl=en
+    homepage: https://val.maly.hk
+    last_name: Malykh
+    name: Valentin Malykh
+    username: ~Valentin_Malykh1
+  - emails: bout.andrey@huawei.com
+    first_name: Andrey
+    institution: Huawei Noah's Ark Lab
+    last_name: Bout
+    name: Andrey Bout
+    semantic_scholar_id: https://www.semanticscholar.org/author/A.-Bout/92357327
+    username: ~Andrey_Bout1
+  - dblp_id: https://dblp.org/pid/211/7823
+    emails: irapiont@yandex.ru
+    first_name: Irina
+    institution: Huawei Technologies Ltd.
+    last_name: Piontkovskaya
+    name: Irina Piontkovskaya
+    username: ~Irina_Piontkovskaya2
+  decision: Accept (Oral)
+  file: 5.pdf
+  id: 5
+  openreview_id: None
+  pdf_file: ''
+  title: Template-based Approach to Zero-shot Intent Recognition
+- abstract: ''
+  attachments:
+  - file: attachments/6.zip
+    open_review_id: /attachment/513c216126a2d54ffd4b2eb17cacd0d5f482ad58.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/171/9301
+    emails: wz6@illinois.edu
+    first_name: Wanzheng
+    google_scholar_id: https://scholar.google.com/citations?user=S9s7DlUAAAAJ&hl=en
+    last_name: Zhu
+    name: Wanzheng Zhu
+    semantic_scholar_id: https://www.semanticscholar.org/author/Wanzheng-Zhu/2405547
+    username: ~Wanzheng_Zhu1
+  - dblp_id: https://dblp.org/pid/66/9013
+    emails: spbhat2@illinois.edu
+    first_name: Suma
+    institution: University of Illinois at Urbana-Champaign and University of Illinois,
+      Urbana Champaign
+    last_name: Bhat
+    name: Suma Bhat
+    username: ~Suma_Bhat1
+  decision: Accept (Oral)
+  file: 6.pdf
+  id: 6
+  openreview_id: None
+  pdf_file: ''
+  title: '"Slow Service" $\cancel{\rightarrow}$ "Great Food": Enhancing Content Preservation
+    in Unsupervised Text Style Transfer'
+- abstract: ''
+  attachments:
+  - file: attachments/7.zip
+    open_review_id: /attachment/709e76878f57ba115e435df3b4f282629c013c29.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: jontooy@gmail.com
+    first_name: Jonathan
+    last_name: Emami
+    name: Jonathan Emami
+    username: ~Jonathan_Emami1
+  - dblp_id: https://dblp.org/pid/63/2645
+    emails: pierre.nugues@cs.lth.se
+    first_name: Pierre
+    google_scholar_id: https://scholar.google.com/citations?user=WaxK-y9Xx18C&hl=en
+    institution: Lund University
+    last_name: Nugues
+    name: Pierre Nugues
+    orcid: https://orcid.org/0000-0002-9563-4000
+    semantic_scholar_id: https://www.semanticscholar.org/author/P.-Nugues/1754406
+    username: ~Pierre_Nugues1
+  - emails: ashraf@sharjah.ac.ae
+    first_name: Ashraf
+    homepage: https://www.sharjah.ac.ae
+    institution: Google
+    last_name: Elnagar
+    name: Ashraf Elnagar
+    username: ~Ashraf_Elnagar1
+  - emails: iafyouni@sharjah.ac.ae
+    first_name: Imad
+    google_scholar_id: https://scholar.google.com/citations?user=Am93xgIAAAAJ&hl=en&oi=ao
+    last_name: Afyouni
+    name: Imad Afyouni
+    username: ~Imad_Afyouni1
+  decision: Accept (Poster)
+  file: 7.pdf
+  id: 7
+  openreview_id: None
+  pdf_file: ''
+  title: Arabic Image Captioning using Pre-training of Deep Bidirectional Transformers
+- abstract: ''
+  attachments:
+  - file: attachments/9.zip
+    open_review_id: /attachment/5c2311a42f8e34acfb32fc6b47c6b0ce28f196cc.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/188/9223
+    emails: jinyiping@knorex.com
+    first_name: Yiping
+    google_scholar_id: https://scholar.google.com/citations?user=XPaxiK8AAAAJ&hl=en
+    homepage: https://github.com/YipingNUS
+    last_name: Jin
+    name: Yiping Jin
+    orcid: https://orcid.org/0000-0002-9599-9181
+    semantic_scholar_id: https://www.semanticscholar.org/author/Y.-Jin/5992367
+    username: ~Yiping_Jin1
+  - dblp_id: https://dblp.org/rec/journals/corr/abs-2102-06429.html
+    emails: vishakha.kad@gmail.com
+    first_name: Vishakha
+    institution: Knorex
+    last_name: Kadam
+    name: Vishakha Kadam
+    semantic_scholar_id: https://www.semanticscholar.org/author/V.-Kadam/2074271642
+    username: ~Vishakha_Kadam1
+  - dblp_id: https://dblp.org/pid/01/8372.html
+    emails: dittaya.w@chula.ac.th
+    first_name: Dittaya
+    google_scholar_id: https://scholar.google.com.tw/citations?user=5lzA94cAAAAJ
+    homepage: http://pioneer.netserv.chula.ac.th/~wdittaya/
+    institution: Chulalongkorn University
+    last_name: Wanvarie
+    name: Dittaya Wanvarie
+    orcid: https://orcid.org/0000-0002-4007-1124
+    username: ~Dittaya_Wanvarie1
+  decision: Accept (Oral)
+  file: 9.pdf
+  id: 9
+  openreview_id: None
+  pdf_file: ''
+  title: Plot Writing From Pre-Trained Language Models
+- abstract: ''
+  attachments:
+  - file: attachments/10.zip
+    open_review_id: /attachment/3b9a0779a5d3dceb789f859591bbddd2cd824a1d.zip
+    type: software
+  attributes:
+    paper_type: short
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/48/3207.html
+    emails: m3155@naver.com
+    first_name: Joosung
+    google_scholar_id: https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate
+    homepage: https://rungjoo.github.io/
+    institution: Kakao Enterprise
+    last_name: Lee
+    name: Joosung Lee
+    orcid: https://orcid.org/0000-0001-5755-1653
+    semantic_scholar_id: https://www.semanticscholar.org/author/Joosung-Lee/71710318
+    username: ~Joosung_Lee1
+  decision: Accept (Poster)
+  file: 10.pdf
+  id: 10
+  openreview_id: None
+  pdf_file: ''
+  title: Paraphrasing via Ranking Many Candidates
+- abstract: ''
+  attachments:
+  - file: attachments/11.zip
+    open_review_id: /attachment/c305f0d411aeb5da0399a84a3af705b4c7fa988a.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/234/3369
+    emails: nicolas.garneau@ift.ulaval.ca
+    first_name: Nicolas
+    last_name: Garneau
+    name: Nicolas Garneau
+    semantic_scholar_id: https://www.semanticscholar.org/author/Nicolas-Garneau/116105856
+    username: ~Nicolas_Garneau1
+  - dblp_id: https://dblp.org/pid/279/4015.html
+    emails: eve.gaumond.1@ulaval.ca
+    first_name: Eve
+    institution: "Universit\xE9 Laval"
+    last_name: Gaumond
+    name: Eve Gaumond
+    semantic_scholar_id: https://www.semanticscholar.org/author/Eve-Gaumond/2028375552
+    username: ~Eve_Gaumond1
+  - dblp_id: ''
+    emails: luc.lamontagne@ift.ulaval.ca
+    first_name: Luc
+    google_scholar_id: https://scholar.google.fr/citations?hl=fr&user=mCsuyb0AAAAJ&view_op=list_works&sortby=pubdate
+    homepage: http://www2.ift.ulaval.ca/~lamontagne/lamontagne-en.html
+    institution: Laval University
+    last_name: Lamontagne
+    name: Luc Lamontagne
+    username: ~Luc_Lamontagne1
+  - dblp_id: https://dblp.org/pid/279/3976.html
+    emails: pierre-luc.deziel@fd.ulaval.ca
+    first_name: Pierre-Luc
+    homepage: https://www.fd.ulaval.ca/notre-faculte/repertoire-du-personnel/pierre-luc-deziel
+    institution: "Universit\xE9 Laval"
+    last_name: "D\xE9ziel"
+    name: "Pierre-Luc D\xE9ziel"
+    semantic_scholar_id: https://www.semanticscholar.org/author/Pierre-Luc-D'eziel/2066217042
+    username: "~Pierre-Luc_D\xE9ziel1"
+  decision: Accept (Oral)
+  file: 11.pdf
+  id: 11
+  openreview_id: None
+  pdf_file: ''
+  title: Evaluating Legal Accuracy of Neural Generators on the Generation of Criminal
+    Court Dockets Description
+- abstract: ''
+  attachments:
+  - file: attachments/13.zip
+    open_review_id: /attachment/4c3818038da4ca134d78c86cb9118b1ef2035051.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: max.koppatz@gmail.com
+    first_name: max.koppatz@gmail.com
+    institution: NA
+    last_name: max.koppatz@gmail.com
+    name: max.koppatz@gmail.com
+    username: max.koppatz@gmail.com
+  - emails: khalid.alnajjar@helsinki.fi
+    first_name: Khalid
+    google_scholar_id: https://scholar.google.com/citations?user=y4DW-KoAAAAJ&hl=en
+    homepage: https://www.khalidalnajjar.com
+    last_name: Alnajjar
+    name: Khalid Alnajjar
+    username: ~Khalid_Alnajjar1
+  - dblp_id: https://dblp.org/pid/219/5607.html
+    emails: mika.hamalainen@helsinki.fi
+    first_name: Mika
+    google_scholar_id: https://scholar.google.com/citations?user=uQ3O89IAAAAJ&hl=en
+    homepage: https://mikakalevi.com
+    institution: University of Helsinki and Rootroo Ltd
+    last_name: "H\xE4m\xE4l\xE4inen"
+    name: "Mika H\xE4m\xE4l\xE4inen"
+    orcid: https://orcid.org/0000-0001-9315-1278
+    semantic_scholar_id: https://www.semanticscholar.org/author/Mika-H%C3%A4m%C3%A4l%C3%A4inen/150213555
+    username: "~Mika_H\xE4m\xE4l\xE4inen1"
+  - dblp_id: https://dblp.org/pid/09/4704.html
+    emails: thierry.poibeau@ens.psl.eu
+    first_name: Thierry
+    homepage: https://www.lattice.cnrs.fr/membres/direction/thierry-poibeau/
+    institution: CNRS
+    last_name: Poibeau
+    name: Thierry Poibeau
+    semantic_scholar_id: https://www.semanticscholar.org/author/T.-Poibeau/1736763
+    username: ~Thierry_Poibeau2
+  decision: Accept (Poster)
+  file: 13.pdf
+  id: 13
+  openreview_id: None
+  pdf_file: ''
+  title: Automatic Generation of Factual News Headlines in Finnish
+- abstract: ''
+  attachments:
+  - file: attachments/14.zip
+    open_review_id: /attachment/99a3f0b1dfe509f516ce5e1e896c11a3cdb6f5c6.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: nattari@techfak.uni-bielefeld.de
+    first_name: Nazia
+    institution: Bielefeld University
+    last_name: Attari
+    name: Nazia Attari
+    username: ~Nazia_Attari1
+  - emails: david.schlangen@uni-potsdam.de
+    first_name: David
+    google_scholar_id: https://scholar.google.com.tw/citations?user=QoDgwZYAAAAJ
+    homepage: http://www.ling.uni-potsdam.de/~das
+    institution: University of Potsdam
+    last_name: Schlangen
+    name: David Schlangen
+    username: ~David_Schlangen1
+  - emails: martin.heckmann@hs-aalen.de
+    first_name: Martin
+    institution: Aalen University
+    last_name: Heckmann
+    name: Martin Heckmann
+    orcid: https://orcid.org/ 0000-0002-1794-1160
+    username: ~Martin_Heckmann1
+  - emails: heiko.wersing@honda-ri.de
+    first_name: heiko.wersing@honda-ri.de
+    institution: NA
+    last_name: heiko.wersing@honda-ri.de
+    name: heiko.wersing@honda-ri.de
+    username: heiko.wersing@honda-ri.de
+  - dblp_id: https://dblp.org/pid/49/8155
+    emails: sina.zarriess@uni-bielefeld.de
+    first_name: Sina
+    google_scholar_id: https://scholar.google.de/citations?user=7OOP0iAAAAAJ&hl=de&oi=ao
+    homepage: https://sinazarriess.github.io/
+    institution: Bielefeld University
+    last_name: "Zarrie\xDF"
+    name: "Sina Zarrie\xDF"
+    orcid: https://orcid.org/0000-0002-1384-1218
+    semantic_scholar_id: https://www.semanticscholar.org/author/Sina-Zarrie%C3%9F/1721364
+    username: "~Sina_Zarrie\xDF1"
+  decision: Accept (Oral)
+  file: 14.pdf
+  id: 14
+  openreview_id: None
+  pdf_file: ''
+  title: 'Generating Coherent and Informative Descriptions for Groups of Visual Objects
+    and Categories: A Simple Decoding Approach'
+- abstract: ''
+  attachments:
+  - file: attachments/17.zip
+    open_review_id: /attachment/f785491ff6baa2bef0f6d61ae20dfe02ebdc5cee.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: j.gonzalez.corbelle@usc.es
+    first_name: Javier
+    institution: Universidad de Santiago de Compostela
+    last_name: "Gonz\xE1lez Corbelle"
+    name: "Javier Gonz\xE1lez Corbelle"
+    orcid: https://orcid.org/0000-0002-9457-0279
+    username: "~Javier_Gonz\xE1lez_Corbelle1"
+  - dblp_id: https://dblp.uni-trier.de/pid/64/2663.html
+    emails: alberto.bugarin.diz@usc.es
+    first_name: Alberto
+    google_scholar_id: https://scholar.google.es/citations?user=8uoMIH0AAAAJ
+    homepage: https://citius.usc.es/equipo/persoal-adscrito/alberto-jose-bugarin-diz?language=en
+    institution: Universidad de Santiago de Compostela
+    last_name: "Bugar\xEDn-Diz"
+    name: "Alberto Bugar\xEDn-Diz"
+    orcid: https://orcid.org/0000-0003-3574-3843
+    semantic_scholar_id: https://www.semanticscholar.org/author/Alberto-Bugar%C3%ADn/1712460
+    username: "~Alberto_Bugar\xEDn-Diz1"
+  - emails: josemaria.alonso.moral@usc.es
+    first_name: Jose
+    google_scholar_id: https://scholar.google.es/citations?user=wDMgf44AAAAJ
+    homepage: https://citius.usc.es/v/jose-maria-alonso-moral
+    institution: Universidad de Santiago de Compostela
+    last_name: Alonso-Moral
+    middle_name: Maria
+    name: Jose Maria Alonso-Moral
+    orcid: https://orcid.org/0000-0003-3673-421X
+    username: ~Jose_Maria_Alonso-Moral1
+  - emails: coordinador-predicion.meteogalicia@xunta.gal
+    first_name: Juan
+    last_name: Taboada
+    name: Juan Taboada
+    orcid: https://orcid.org/0000-0001-9023-473X
+    username: ~Juan_Taboada1
+  decision: Accept (Oral)
+  file: 17.pdf
+  id: 17
+  openreview_id: None
+  pdf_file: ''
+  title: 'Dealing with hallucination and omission in neural Natural Language Generation:
+    A use case on meteorology.'
+- abstract: ''
+  attachments:
+  - file: attachments/18.zip
+    open_review_id: /attachment/470a4fc1a2067030160b464066ee3fa16098b2ab.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/250/9059
+    emails: yzpang@nyu.edu
+    first_name: Richard Yuanzhe
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=vg_IkckAAAAJ
+    homepage: https://yzpang.me
+    institution: New York University
+    last_name: Pang
+    name: Richard Yuanzhe Pang
+    semantic_scholar_id: https://www.semanticscholar.org/author/Richard-Yuanzhe-Pang/46230016
+    username: ~Richard_Yuanzhe_Pang1
+  - dblp_id: https://dblp.org/pid/08/8618-1
+    emails: hhe@nyu.edu
+    first_name: He
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=K-isjagAAAAJ&view_op=list_works&sortby=pubdate
+    homepage: http://hhexiy.github.io
+    institution: New York University
+    last_name: He
+    name: He He
+    username: ~He_He2
+  - dblp_id: https://dblp.org/pid/41/9736
+    emails: kyunghyun.cho@nyu.edu
+    first_name: Kyunghyun
+    google_scholar_id: https://scholar.google.fi/citations?user=0RAmmIAAAAAJ&hl=en
+    homepage: http://kyunghyuncho.me
+    institution: Genentech and New York University
+    last_name: Cho
+    name: Kyunghyun Cho
+    semantic_scholar_id: https://www.semanticscholar.org/author/Kyunghyun-Cho/1979489
+    username: ~Kyunghyun_Cho1
+  decision: Accept (Poster)
+  file: 18.pdf
+  id: 18
+  openreview_id: None
+  pdf_file: ''
+  title: Amortized Noisy Channel Neural Machine Translation
+- abstract: ''
+  attachments:
+  - file: attachments/19.zip
+    open_review_id: /attachment/341fac7ab46c5235c1e07f450b0b5916243d7f43.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: kashyapabandara.17@cse.mrt.ac.lk
+    first_name: Kashyapa
+    institution: University of Moratuwa
+    last_name: Niyarepola
+    name: Kashyapa Niyarepola
+    username: ~Kashyapa_Niyarepola1
+  - emails: dinethnaradaam.17@cse.mrt.ac.lk
+    first_name: Dineth
+    last_name: Athapaththu
+    name: Dineth Athapaththu
+    username: ~Dineth_Athapaththu1
+  - emails: savinduekanayake.17@cse.mrt.ac.lk
+    first_name: Savindu
+    institution: University of Moratuwa
+    last_name: Ekanayake
+    middle_name: Kalsara
+    name: Savindu Kalsara Ekanayake
+    username: ~Savindu_Kalsara_Ekanayake1
+  - dblp_id: https://dblp.uni-trier.de/pid/46/10481.html
+    emails: surangika@cse.mrt.ac.lk
+    first_name: Surangika
+    google_scholar_id: https://scholar.google.com/citations?user=TB4RYToAAAAJ&hl=en&oi=ao
+    homepage: https://uom.lk/staff/Ranathunga.S.php
+    institution: University of Moratuwa
+    last_name: Ranathunga
+    name: Surangika Ranathunga
+    orcid: https://orcid.org/0000-0003-0701-0204
+    semantic_scholar_id: https://www.semanticscholar.org/author/Surangika-Ranathunga/2594452
+    username: ~Surangika_Ranathunga1
+  decision: Accept (Poster)
+  file: 19.pdf
+  id: 19
+  openreview_id: None
+  pdf_file: ''
+  title: Math Word Problem Generation with Multilingual Language Models
+- abstract: ''
+  attachments:
+  - file: attachments/21.zip
+    open_review_id: /attachment/784acc21c5998cd4b304870b5cd588e0a5b0ce5d.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/217/4867.html
+    emails: simone.balloccu@abdn.ac.uk
+    first_name: Simone
+    google_scholar_id: https://scholar.google.com/citations?user=O-eIjBAAAAAJ&hl=en&oi=ao
+    institution: University of Aberdeen
+    last_name: Balloccu
+    name: Simone Balloccu
+    orcid: https://orcid.org/0000-0002-9812-5092
+    semantic_scholar_id: https://www.semanticscholar.org/author/Simone-Balloccu/40917675
+    username: ~Simone_Balloccu1
+  - dblp_id: https://dblp.org/pid/21/3710
+    emails: e.reiter@abdn.ac.uk
+    first_name: Ehud
+    homepage: http://ehudreiter.com
+    institution: University of Aberdeen
+    last_name: Reiter
+    name: Ehud Reiter
+    username: ~Ehud_Reiter1
+  decision: Accept (Oral)
+  file: 21.pdf
+  id: 21
+  openreview_id: None
+  pdf_file: ''
+  title: Comparing informativeness of an NLG chatbot vs graphical app in diet-information
+    domain
+- abstract: ''
+  attachments:
+  - file: attachments/24.zip
+    open_review_id: /attachment/dd1e547cb48a00d2fe00ce49d25ea3960232977b.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: kjros2@illinois.edu
+    first_name: Kevin
+    google_scholar_id: https://scholar.google.com/citations?user=0HCtLPYAAAAJ&hl=en&oi=ao
+    homepage: https://kevinros.github.io
+    last_name: Ros
+    name: Kevin Ros
+    username: ~Kevin_Ros1
+  - emails: mjong3@illinois.edu
+    first_name: Maxwell
+    last_name: Jong
+    name: Maxwell Jong
+    username: ~Maxwell_Jong1
+  - emails: chchan2@illinois.edu
+    first_name: Chak Ho
+    last_name: Chan
+    name: Chak Ho Chan
+    username: ~Chak_Ho_Chan2
+  - dblp_id: https://dblp.org/pid/z/ChengXiangZhai
+    emails: czhai@illinois.edu
+    first_name: ChengXiang
+    google_scholar_id: https://scholar.google.com/citations?user=YU-baPIAAAAJ&hl=en
+    homepage: http://czhai.cs.illinois.edu/
+    institution: University of Illinois, Urbana Champaign
+    last_name: Zhai
+    name: ChengXiang Zhai
+    username: ~ChengXiang_Zhai1
+  decision: Accept (Poster)
+  file: 24.pdf
+  id: 24
+  openreview_id: None
+  pdf_file: ''
+  title: Generation of Student Questions for Inquiry-based Learning
+- abstract: ''
+  attachments:
+  - file: attachments/25.zip
+    open_review_id: /attachment/56c751db60ba3a9040fe30042e7fc2c123bc08e1.zip
+    type: software
+  attributes:
+    paper_type: short
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: harry831120@gmail.com
+    first_name: Ying-Hong
+    google_scholar_id: https://scholar.google.com.tw/citations?user=yNnE9ggAAAAJ
+    last_name: Chan
+    name: Ying-Hong Chan
+    username: ~Ying-Hong_Chan1
+  - emails: holam.chung@protonmail.com
+    first_name: Ho-Lam
+    google_scholar_id: https://scholar.google.com.tw/citations?hl=zh-TW&authuser=2&user=yhGRROAAAAAJ
+    institution: National Taiwan University
+    last_name: Chung
+    name: Ho-Lam Chung
+    orcid: https://orcid.org/0000-0003-3847-0166
+    username: ~Ho-Lam_Chung1
+  - dblp_id: https://dblp.org/pid/85/6913.html
+    emails: yfan@nchu.edu.tw
+    first_name: Yao-Chung
+    google_scholar_id: https://scholar.google.com.tw/citations?hl=zh-TW&user=AGJnJ98AAAAJ
+    homepage: http://web.nchu.edu.tw/~yfan/
+    institution: National Chung Hsing University
+    last_name: Fan
+    name: Yao-Chung Fan
+    username: ~Yao-Chung_Fan1
+  decision: Accept (Poster)
+  file: 25.pdf
+  id: 25
+  openreview_id: None
+  pdf_file: ''
+  title: Keyword Provision Question Generation for Facilitating Educational Reading
+    Comprehension Preparation
+- abstract: ''
+  attachments:
+  - file: attachments/27.zip
+    open_review_id: /attachment/d8fe8fa13f195ea8fc6d39c8ad2d31f5b1f6426a.zip
+    type: software
+  attributes:
+    paper_type: short
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/49/8155
+    emails: sina.zarriess@uni-bielefeld.de
+    first_name: Sina
+    google_scholar_id: https://scholar.google.de/citations?user=7OOP0iAAAAAJ&hl=de&oi=ao
+    homepage: https://sinazarriess.github.io/
+    institution: Bielefeld University
+    last_name: "Zarrie\xDF"
+    name: "Sina Zarrie\xDF"
+    orcid: https://orcid.org/0000-0002-1384-1218
+    semantic_scholar_id: https://www.semanticscholar.org/author/Sina-Zarrie%C3%9F/1721364
+    username: "~Sina_Zarrie\xDF1"
+  - dblp_id: https://dblp.org/pid/248/9650
+    emails: henrik.voigt@uni-jena.de
+    first_name: Henrik
+    last_name: Voigt
+    name: Henrik Voigt
+    username: ~Henrik_Voigt1
+  - emails: david.schlangen@uni-potsdam.de
+    first_name: David
+    google_scholar_id: https://scholar.google.com.tw/citations?user=QoDgwZYAAAAJ
+    homepage: http://www.ling.uni-potsdam.de/~das
+    institution: University of Potsdam
+    last_name: Schlangen
+    name: David Schlangen
+    username: ~David_Schlangen1
+  - emails: philipp.sadler@uni-potsdam.de
+    first_name: Philipp
+    institution: University of Potsdam
+    last_name: Sadler
+    name: Philipp Sadler
+    semantic_scholar_id: https://www.semanticscholar.org/author/P.-Sadler/84039136
+    username: ~Philipp_Sadler1
+  decision: Accept (Oral)
+  file: 27.pdf
+  id: 27
+  openreview_id: None
+  pdf_file: ''
+  title: Generating Landmark-based Manipulation Instructions from Image Pairs
+- abstract: ''
+  attachments:
+  - file: attachments/28.zip
+    open_review_id: /attachment/f3625148a7a028261d3cdb3c33b6845d7e8527b0.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/163/2171
+    emails: alikhani.malihe@gmail.com
+    first_name: Malihe
+    google_scholar_id: https://scholar.google.com/citations?user=w24_ETkAAAAJ&hl=en
+    homepage: https://www.malihealikhani.com/
+    institution: University of Pittsburgh
+    last_name: Alikhani
+    name: Malihe Alikhani
+    semantic_scholar_id: https://www.semanticscholar.org/author/Malihe-Alikhani/2715920
+    username: ~Malihe_Alikhani2
+  - dblp_id: https://dblp.uni-trier.de/pid/185/0779-1.html
+    emails: thomas.kober@yahoo.com
+    first_name: Thomas
+    google_scholar_id: https://scholar.google.co.uk/citations?hl=en&user=1YCMKBgAAAAJ
+    homepage: https://tttthomasssss.github.io
+    institution: Zalando SE
+    last_name: Kober
+    middle_name: H
+    name: Thomas H Kober
+    semantic_scholar_id: https://www.semanticscholar.org/author/Thomas-Kober/3451196
+    username: ~Thomas_H_Kober1
+  - dblp_id: https://dblp.org/pid/234/6160.html
+    emails: ba63@nyu.edu
+    first_name: Bashar
+    google_scholar_id: https://scholar.google.com/citations?user=FJT9fboAAAAJ
+    homepage: https://basharalhafni.com/
+    institution: New York University
+    last_name: Alhafni
+    name: Bashar Alhafni
+    semantic_scholar_id: https://www.semanticscholar.org/author/Bashar-Alhafni/66589548
+    username: ~Bashar_Alhafni1
+  - dblp_id: https://dblp.org/pid/79/5815
+    emails: yc59@indiana.edu
+    first_name: Yue
+    google_scholar_id: https://scholar.google.com/citations?user=_s9di4AAAAAJ&hl=en
+    homepage: https://chenyueg.github.io/
+    institution: Microsoft and Indiana University
+    last_name: Chen
+    name: Yue Chen
+    orcid: https://orcid.org/0000-0003-4924-3743
+    semantic_scholar_id: https://www.semanticscholar.org/author/Yue-Chen/1990636
+    username: ~Yue_Chen3
+  - dblp_id: https://dblp.org/pid/244/7871.html
+    emails: mertinan96@gmail.com
+    first_name: Mert
+    google_scholar_id: https://scholar.google.com/citations?user=ztpK4iwAAAAJ&hl=en
+    homepage: http://merterm.github.io/
+    institution: University of Pittsburgh
+    last_name: Inan
+    name: Mert Inan
+    orcid: https://orcid.org/0000-0001-6972-411X
+    semantic_scholar_id: https://www.semanticscholar.org/author/Mert-Inan/91268193
+    username: ~Mert_Inan1
+  - emails: ekayen@gmail.com
+    first_name: Elizabeth
+    google_scholar_id: https://scholar.google.com/citations?user=xEWKs1sAAAAJ&hl=en
+    homepage: http://ekayen.github.io
+    last_name: Nielsen
+    middle_name: Kaye
+    name: Elizabeth Kaye Nielsen
+    username: ~Elizabeth_Kaye_Nielsen1
+  - emails: shahab.raji@gmail.com
+    first_name: Shahab
+    google_scholar_id: https://scholar.google.com/citations?user=TGjKLtYAAAAJ
+    homepage: http://shahabraji.com/
+    last_name: Raji
+    name: Shahab Raji
+    username: ~Shahab_Raji1
+  - dblp_id: https://dblp.org/pid/s/MarkSteedman
+    emails: steedman@inf.ed.ac.uk
+    first_name: Mark
+    google_scholar_id: https://scholar.google.com/citations?user=ccCd0_YAAAAJ&hl=en&oi=ao
+    homepage: https://homepages.inf.ed.ac.uk/steedman/
+    institution: University of Edinburgh
+    last_name: Steedman
+    name: Mark Steedman
+    semantic_scholar_id: https://www.semanticscholar.org/author/Mark-Steedman/145332819
+    username: ~Mark_Steedman1
+  - dblp_id: https://dblp.org/pid/53/3043.html
+    emails: matthew.stone@rutgers.edu
+    first_name: Matthew
+    google_scholar_id: https://scholar.google.com/citations?user=3siz6_0AAAAJ&hl=en
+    homepage: http://www.cs.rutgers.edu/~mdstone
+    institution: Rutgers University
+    last_name: Stone
+    name: Matthew Stone
+    orcid: https://orcid.org/my-orcid?orcid=0000-0003-3629-2941
+    semantic_scholar_id: https://www.semanticscholar.org/author/Matthew-Stone/144884556
+    username: ~Matthew_Stone1
+  decision: Accept (Oral)
+  file: 28.pdf
+  id: 28
+  openreview_id: None
+  pdf_file: ''
+  title: Zero-shot Cross-Linguistic Learning of Event Semantics
+- abstract: ''
+  attachments:
+  - file: attachments/31.zip
+    open_review_id: /attachment/1ce4d0dd4b87fa213de54a0056d272d241a25251.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: yucheng.li@surrey.ac.uk
+    first_name: Yucheng
+    last_name: LI
+    name: YUCHENG LI
+    username: ~YUCHENG_LI2
+  - dblp_id: https://dblp.org/pid/11/7536
+    emails: c.lin@sheffield.ac.uk
+    first_name: Chenghua
+    google_scholar_id: https://scholar.google.co.uk/citations?user=Tp1RdIQAAAAJ&hl=en
+    homepage: https://chenghualin.wordpress.com/
+    institution: University of Sheffield
+    last_name: Lin
+    name: Chenghua Lin
+    username: ~Chenghua_Lin1
+  - emails: f.guerin@surrey.ac.uk
+    first_name: Frank
+    google_scholar_id: https://scholar.google.co.uk/citations?user=OK8EYAoAAAAJ&hl=en
+    homepage: https://www.surrey.ac.uk/people/frank-guerin
+    last_name: Guerin
+    name: Frank Guerin
+    username: ~Frank_Guerin3
+  decision: Accept (Oral)
+  file: 31.pdf
+  id: 31
+  openreview_id: None
+  pdf_file: ''
+  title: Nominal Metaphor Generation with Multitask Learning
+- abstract: ''
+  attachments:
+  - file: attachments/32.zip
+    open_review_id: /attachment/e33f7271fead805d127e1a42dfd919983e6dde63.zip
+    type: software
+  attributes:
+    paper_type: short
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: nikolai.ilinykh@gu.se
+    first_name: Nikolai
+    google_scholar_id: https://scholar.google.com/citations?user=xvVbd4EAAAAJ&hl=en
+    institution: Gothenburg University
+    last_name: Ilinykh
+    name: Nikolai Ilinykh
+    semantic_scholar_id: https://www.semanticscholar.org/author/51933789
+    username: ~Nikolai_Ilinykh1
+  - emails: gusemampya@student.gu.se
+    first_name: Yasmeen
+    last_name: Emampoor
+    name: Yasmeen Emampoor
+    username: ~Yasmeen_Emampoor1
+  - dblp_id: https://dblp.org/pid/99/8434
+    emails: simon.dobnik@gu.se
+    first_name: Simon
+    google_scholar_id: https://scholar.google.com/citations?user=Ie41FMAAAAAJ&hl=en
+    homepage: https://www.gu.se/en/about/find-staff/simondobnik
+    institution: University of Gothenburg
+    last_name: Dobnik
+    name: Simon Dobnik
+    orcid: https://orcid.org/0000-0002-4019-7966
+    semantic_scholar_id: https://www.semanticscholar.org/author/Simon-Dobnik/2995275
+    username: ~Simon_Dobnik1
+  decision: Accept (Poster)
+  file: 32.pdf
+  id: 32
+  openreview_id: None
+  pdf_file: ''
+  title: 'Look and Answer the Question: On the Role of Vision in Embodied Question
+    Answering'
+- abstract: ''
+  attachments:
+  - file: attachments/33.zip
+    open_review_id: /attachment/3628a5f68d0ad1c5f57ccb4efd57691efd3440a8.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: pheinisch@techfak.uni-bielefeld.de
+    first_name: Philipp
+    google_scholar_id: https://scholar.google.de/citations?user=ooL1D6gAAAAJ&hl=de
+    homepage: https://philippheinisch.de/
+    institution: "Universit\xE4t Bielefeld"
+    last_name: Heinisch
+    name: Philipp Heinisch
+    username: ~Philipp_Heinisch1
+  - emails: frank@cl.uni-heidelberg.de
+    first_name: Anette
+    google_scholar_id: https://scholar.google.de/citations?user=9FP2fokAAAAJ&hl=en
+    homepage: https://www.cl.uni-heidelberg.de/nlpgroup/person/frank
+    institution: "Ruprecht-Karls-Universit\xE4t Heidelberg"
+    last_name: Frank
+    name: Anette Frank
+    semantic_scholar_id: https://www.semanticscholar.org/author/A.-Frank/143876555
+    username: ~Anette_Frank1
+  - dblp_id: https://dblp.org/pid/185/5616.html
+    emails: opitz@cl.uni-heidelberg.de
+    first_name: Juri
+    homepage: https://www.cl.uni-heidelberg.de/nlpgroup/person/opitz
+    institution: "Ruprecht-Karls-Universit\xE4t Heidelberg"
+    last_name: Opitz
+    name: Juri Opitz
+    semantic_scholar_id: https://www.semanticscholar.org/author/J.-Opitz/32781138
+    username: ~Juri_Opitz2
+  - dblp_id: https://dblp.org/pid/12/1983
+    emails: cimiano@cit-ec.uni-bielefeld.de
+    first_name: Philipp
+    google_scholar_id: https://scholar.google.com.tw/citations?user=ZyR3798AAAAJ
+    homepage: http://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=15020699
+    institution: Bielefeld University
+    last_name: Cimiano
+    name: Philipp Cimiano
+    username: ~Philipp_Cimiano1
+  decision: Accept (Poster)
+  file: 33.pdf
+  id: 33
+  openreview_id: None
+  pdf_file: ''
+  title: 'Strategies for framing argumentative conclusion generation '
+- abstract: ''
+  attachments:
+  - file: attachments/34.zip
+    open_review_id: /attachment/c8010f61afd5648fc07654c9dc68406b1e0f9b5a.zip
+    type: software
+  attributes:
+    paper_type: short
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: xzwu@apex.sjtu.edu.cn
+    first_name: Xianze
+    homepage: https://github.com/xzwu20
+    last_name: Wu
+    name: Xianze Wu
+    username: ~Xianze_Wu2
+  - dblp_id: https://dblp.org/pid/205/2769
+    emails: zhengzx.142857@gmail.com
+    first_name: Zaixiang
+    google_scholar_id: https://scholar.google.com/citations?user=JPSrehMAAAAJ
+    homepage: https://zhengzx-nlp.github.io/
+    institution: ByteDance AI Lab
+    last_name: Zheng
+    name: Zaixiang Zheng
+    semantic_scholar_id: https://www.semanticscholar.org/author/Zaixiang-Zheng/24018493
+    username: ~Zaixiang_Zheng2
+  - dblp_id: https://dblp.uni-trier.de/pid/63/778-12
+    emails: haozhou0806@gmail.com
+    first_name: Hao
+    google_scholar_id: https://scholar.google.com/citations?hl=zh-CN&user=XEgaCScAAAAJ&view_op=list_works&gmla=AJsN-F44OQLtIK-bb9nTc0D_8RvRk0fMXjU4YID5MWDQpCLSit19URYowi4IONpHePIgChrR9GXd-twexJLKCa-INOJlI2YpE38tN4Z9EzCyZsAE7LKuejxljFZ5oz0xtOcMKt4GhaLTAVIrUbPyASBB-ePsnMtr5A
+    homepage: https://zhouh.github.io/
+    last_name: Zhou
+    name: Hao Zhou
+    username: ~Hao_Zhou5
+  - emails: yyu@apex.sjtu.edu.cn
+    first_name: Yong
+    last_name: Yu
+    name: Yong Yu
+    username: ~Yong_Yu1
+  decision: Accept (Oral)
+  file: 34.pdf
+  id: 34
+  openreview_id: None
+  pdf_file: ''
+  title: 'LAFT: Cross-lingual Transfer for Text Generation by Language-Agnostic Finetuning'
+- abstract: ''
+  attachments:
+  - file: attachments/35.zip
+    open_review_id: /attachment/73a6492d1dc88b181c1dedfb05095ee6d649dc23.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/237/9535.html
+    emails: karamlouamin@gmail.com
+    first_name: Amin
+    homepage: http://aminkaramlou.github.io
+    last_name: Karamlou
+    name: Amin Karamlou
+    semantic_scholar_id: https://www.semanticscholar.org/author/Amin-Karamlou/118381196
+    username: ~Amin_Karamlou1
+  - emails: jwo@zurich.ibm.com
+    first_name: James
+    google_scholar_id: https://scholar.google.com/citations?user=w3JCUogAAAAJ&hl=de
+    institution: IBM TJ Watson Research Center
+    last_name: Wootton
+    middle_name: R
+    name: James R Wootton
+    orcid: https://orcid.org/ 0000-0003-1943-5306
+    username: ~James_R_Wootton1
+  - emails: faf@zurich.ibm.com
+    first_name: Marcel
+    homepage: https://researcher.watson.ibm.com/researcher/view.php?person=zurich-FAF
+    last_name: Pfaffhauser
+    name: Marcel Pfaffhauser
+    username: ~Marcel_Pfaffhauser1
+  decision: Accept (Oral)
+  file: 35.pdf
+  id: 35
+  openreview_id: None
+  pdf_file: ''
+  title: Quantum Natural Language Generation on Near-Term Devices
+- abstract: ''
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/245/8864
+    emails: bhavya2@illinois.edu
+    first_name: Bhavya
+    google_scholar_id: https://scholar.google.com/citations?user=Y47rHIoAAAAJ&hl=en
+    homepage: https://bhaavya.github.io/
+    institution: University of Illinois at Urbana-Champaign
+    last_name: Bhavya
+    name: Bhavya Bhavya
+    username: ~Bhavya_Bhavya2
+  - dblp_id: https://dblp.org/pid/81/1130
+    emails: jinjun@buffalo.edu
+    first_name: Jinjun
+    institution: State University of New York at Buffalo
+    last_name: Xiong
+    name: Jinjun Xiong
+    username: ~Jinjun_Xiong1
+  - dblp_id: https://dblp.org/pid/z/ChengXiangZhai
+    emails: czhai@illinois.edu
+    first_name: ChengXiang
+    google_scholar_id: https://scholar.google.com/citations?user=YU-baPIAAAAJ&hl=en
+    homepage: http://czhai.cs.illinois.edu/
+    institution: University of Illinois, Urbana Champaign
+    last_name: Zhai
+    name: ChengXiang Zhai
+    username: ~ChengXiang_Zhai1
+  decision: Accept (Oral)
+  file: 37.pdf
+  id: 37
+  openreview_id: None
+  pdf_file: ''
+  title: 'Analogy Generation by Prompting Large Language Models: A Case Study of InstructGPT'
+- abstract: ''
+  attachments:
+  - file: attachments/39.zip
+    open_review_id: /attachment/e6d40e388b0b6bd41cd1634be6efcc64e5e842b6.zip
+    type: software
+  attributes:
+    paper_type: long
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/267/9171
+    emails: kmahaja2@uncc.edu
+    first_name: Khyati
+    homepage: https://khyatimahajan.com
+    last_name: Mahajan
+    name: Khyati Mahajan
+    semantic_scholar_id: https://www.semanticscholar.org/author/73124063
+    username: ~Khyati_Mahajan1
+  - dblp_id: https://dblp.org/pid/221/5959
+    emails: sashank.6592@gmail.com
+    first_name: Sashank
+    google_scholar_id: https://scholar.google.com/citations?user=KCHiyDEAAAAJ&hl=en
+    homepage: https://www.sashank06.github.io
+    institution: Apple
+    last_name: Santhanam
+    name: Sashank Santhanam
+    semantic_scholar_id: https://www.semanticscholar.org/author/50629423
+    username: ~Sashank_Santhanam1
+  - dblp_id: https://dblp.org/pid/59/1496
+    emails: sshaikh2@uncc.edu
+    first_name: Samira
+    homepage: https://webpages.uncc.edu/sshaikh2/
+    institution: University of North Carolina, Charlotte
+    last_name: Shaikh
+    name: Samira Shaikh
+    username: ~Samira_Shaikh1
+  decision: Accept (Oral)
+  file: 39.pdf
+  id: 39
+  openreview_id: None
+  pdf_file: ''
+  title: Towards Evaluation of Multi-party Dialogue Systems
+- abstract: ''
+  attachments:
+  - file: attachments/40.zip
+    open_review_id: /attachment/92dd8c25a8a062516193ecc75998d96ad4915179.zip
+    type: software
+  attributes:
+    paper_type: short
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: meamitkc@gmail.com
+    first_name: Amit
+    homepage: https://amitness.com
+    institution: University of Trento
+    last_name: Chaudhary
+    middle_name: Kumar
+    name: Amit Kumar Chaudhary
+    username: ~Amit_Kumar_Chaudhary1
+  - emails: alex.j.lucassen@gmail.com
+    first_name: Alex
+    institution: University of Trento
+    last_name: Lucassen
+    middle_name: J.
+    name: Alex J. Lucassen
+    username: ~Alex_J._Lucassen1
+  - emails: tsanijoan@windowslive.com
+    first_name: Ioanna
+    last_name: Tsani
+    name: Ioanna Tsani
+    username: ~Ioanna_Tsani1
+  - dblp_id: https://dblp.org/pid/207/6837
+    emails: alberto.testoni@unitn.it
+    first_name: Alberto
+    google_scholar_id: https://scholar.google.com/citations?user=gGdWaH4AAAAJ&hl=it
+    homepage: https://albertotestoni.github.io/
+    last_name: Testoni
+    name: Alberto Testoni
+    username: ~Alberto_Testoni1
+  decision: Accept (Poster)
+  file: 40.pdf
+  id: 40
+  openreview_id: None
+  pdf_file: ''
+  title: Are Current Decoding Strategies Capable of Facing the Challenges of Visual
+    Dialogue?

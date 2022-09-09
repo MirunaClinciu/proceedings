@@ -1,0 +1,11 @@
+- tier: Gold
+  logos:
+    - arria.jpg
+    - google.png
+- tier: Silver
+  logos:
+    - huggingface.png
+- tier: Bronze
+  logos:
+    - axsemantics.svg
+    - aixplain.png

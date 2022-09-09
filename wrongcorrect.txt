@@ -1,0 +1,74 @@
+final 
+
+demos
+1
+2
+3
+4
+
+gemchal
+42 - wrong
+43 - wrong 
+44  
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57 - wrong
+58
+
+long main
+1
+5
+6
+7
+9
+11
+13
+14
+17
+18
+19- wong 
+21 - wrong
+24 - wrong
+28 - wrong
+31 - wrong
+33
+35
+37
+39
+
+nl4health
+all correct
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

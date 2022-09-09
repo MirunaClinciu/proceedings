@@ -1,0 +1,131 @@
+book_title: Proceedings of the 15th International Conference on Natural Language Generation
+event_name: International Natural Language Generation Conference (INLG 2022)
+volume_name: 2022.inlg
+cover_subtitle: Proceedings of the 15th International Conference on Natural Language Generation
+anthology_venue_id: INLG
+start_date: 2022-07-17
+end_date: 2020-07-22
+isbn: 978-1-955917-57-5
+location:  Waterville, Maine, USA and virtual meeting
+editors:
+    - first_name: Samira 
+      last_name: Shaikh
+    - first_name: Thiago
+      middle_name: Castro
+      last_name: Ferreira
+    - first_name: Amanda 
+      last_name: Stent
+publisher: Association for Computational Linguistics
+#watermark_book_title: Proceedings of the 15th International Conference on Natural Language Generation
+
+book_title: Proceedings of the 15th Conference on Natural Language Generation: Long Papers
+event_name: International Natural Language Generation Conference (INLG 2022)
+volume_name: 2022.inlg-long
+cover_subtitle: Proceedings of the 15th International Conference on Natural Language Generation
+anthology_venue_id: INLG
+start_date: 2022-07-17
+end_date: 2020-07-22
+isbn: 978-1-955917-58-2
+location:  Waterville, Maine, USA and virtual meeting
+editors:
+    - first_name: Samira 
+      last_name: Shaikh
+    - first_name: Thiago
+      middle_name: Castro
+      last_name: Ferreira
+    - first_name: Amanda 
+      last_name: Stent
+publisher: Association for Computational Linguistics
+#watermark_book_title: Proceedings of the 15th International Conference on Natural Language Generation
+
+book_title: Proceedings of the 15th Conference on Natural Language Generation: Short Papers
+event_name: International Natural Language Generation Conference (INLG 2022)
+volume_name: 2022.inlg-short
+cover_subtitle: Proceedings of the 15th International Conference on Natural Language Generation
+anthology_venue_id: INLG
+start_date: 2022-07-17
+end_date: 2020-07-22
+isbn: 978-1-955917-59-9
+location:  Waterville, Maine, USA and virtual meeting
+editors:
+    - first_name: Samira 
+      last_name: Shaikh
+    - first_name: Thiago
+      middle_name: Castro
+      last_name: Ferreira
+    - first_name: Amanda 
+      last_name: Stent
+publisher: Association for Computational Linguistics
+#watermark_book_title: Proceedings of the 15th International Conference on Natural Language Generation
+
+book_title: Proceedings of the 15th Conference on Natural Language Generation: System Demonstrations
+event_name: International Natural Language Generation Conference (INLG 2022)
+volume_name: 2022.inlg-demos
+cover_subtitle: Proceedings of the 15th International Conference on Natural Language Generation
+anthology_venue_id: INLG
+start_date: 2022-07-17
+end_date: 2020-07-22
+isbn: 978-1-955917-60-5
+location:  Waterville, Maine, USA and virtual meeting
+editors:
+    - first_name: Samira 
+      last_name: Shaikh
+    - first_name: Thiago
+      middle_name: Castro
+      last_name: Ferreira
+    - first_name: Amanda 
+      last_name: Stent
+publisher: Association for Computational Linguistics
+#watermark_book_title: Proceedings of the 15th International Conference on Natural Language Generation
+
+book_title: Proceedings of the 15th Conference on Natural Language Generation: Tutorials
+event_name: International Natural Language Generation Conference (INLG 2022)
+volume_name: 2022.inlg-demos
+cover_subtitle: Proceedings of the 15th International Conference on Natural Language Generation
+anthology_venue_id: INLG
+start_date: 2022-07-18
+end_date: 2020-07-18
+isbn: 978-1-955917-61-2
+location:  Waterville, Maine, USA and virtual meeting
+editors:
+    - first_name: Joshua
+      last_name: Maynez
+publisher: Association for Computational Linguistics
+#watermark_book_title: Proceedings of the 15th International Conference on Natural Language Generation
+
+book_title: Proceedings of the 15th Conference on Natural Language Generation: Generation Challenges
+event_name: International Natural Language Generation Conference (INLG 2022)
+volume_name: 2022.inlg-demos
+cover_subtitle: Proceedings of the 15th International Conference on Natural Language Generation
+anthology_venue_id: INLG
+start_date: 2022-07-21
+end_date: 2020-07-21
+978-1-955917-62-9
+location:  Waterville, Maine, USA and virtual meeting
+editors:
+    - first_name: Anastasia
+      last_name: Shimorina
+publisher: Association for Computational Linguistics
+#watermark_book_title: Proceedings of the 15th International Conference on Natural Language Generation
+
+
+
+book_title: Proceedings of the First Workshop on Natural Language Generation in Healthcare
+event_name: The First Workshop on Natural Language Generation in Healthcare
+cover_subtitle: Proceedings of the Workshop
+anthology_venue_id: NLG4Health
+start_date: 2022-07-18
+end_date: 2022-07-18
+isbn: 978-1-955917-63-6
+location: Waterville, Maine, USA and virtual meeting
+editors:
+  - first_name: Emiel
+    last_name: Krahmer
+  - first_name: Kathy
+    last_name: McCoy
+  - first_name: Ehud
+    last_name: Reiter
+
+publisher: Association for Computational Linguistics
+volume_name: 1
+watermark_book_title: Proceedings of the First Workshop on Natural Language Generation in Healthcare (NLG4Health)

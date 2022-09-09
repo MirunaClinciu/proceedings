@@ -1,0 +1,33 @@
+- entries:
+  - dblp_id: https://dblp.org/pid/281/0585
+    emails: mc191@hw.ac.uk
+    first_name: Miruna
+    homepage: https://www.mirunaclinciu.com
+    last_name: Clinciu
+    name: Miruna Clinciu
+    semantic_scholar_id: https://www.semanticscholar.org/author/Miruna-Adriana-Clinciu/2029314697
+    username: ~Miruna_Clinciu1
+  - dblp_id: https://dblp.org/pid/61/3236
+    emails: e.j.krahmer@tilburguniversity.edu
+    first_name: Emiel
+    institution: Tilburg University
+    last_name: Krahmer
+    name: Emiel Krahmer
+    username: ~Emiel_Krahmer1
+  - dblp_id: https://dblp.org/pid/m/KathleenFMcCoy
+    emails: mccoy@cis.udel.edu
+    first_name: Kathleen
+    homepage: http://udel.edu/~mccoy/
+    institution: University of Delaware
+    last_name: McCoy
+    name: Kathleen McCoy
+    username: ~Kathleen_McCoy1
+  - dblp_id: https://dblp.org/pid/21/3710
+    emails: e.reiter@abdn.ac.uk
+    first_name: Ehud
+    homepage: http://ehudreiter.com
+    institution: University of Aberdeen
+    last_name: Reiter
+    name: Ehud Reiter
+    username: ~Ehud_Reiter1
+  role: Program Chairs

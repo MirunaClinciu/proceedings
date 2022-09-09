@@ -1,0 +1,179 @@
+- abstract: Natural Language Generation has been proved to be effective and efficient
+    in constructing health behaviour change support systems. We are working on DrivingBeacon,
+    a behaviour change support system that uses telematics data from mobile phone
+    sensors to generate weekly data-to-text feedback reports to vehicle drivers. The
+    system makes use of a wealth of information such as mobile phone use while driving,
+    geo-information, speeding, rush hour driving to generate the feedback. We present
+    results from a real-world evaluation where 8 drivers in UK used DrivingBeacon
+    for 4 weeks.  Results are promising but not conclusive.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: r04jb18@abdn.ac.uk
+    first_name: Jawwad
+    last_name: Baig
+    name: Jawwad Baig
+    username: ~Jawwad_Baig1
+  - dblp_id: https://dblp.org/pid/220/0907
+    emails: g.chen@uu.nl
+    first_name: Guanyi
+    google_scholar_id: https://scholar.google.com/citations?authorid=wt7-UUYAAAAJ&user=wt7-UUYAAAAJ
+    homepage: https://a-quei.github.io/
+    institution: Utrecht University
+    last_name: Chen
+    name: Guanyi Chen
+    orcid: https://orcid.org/0000-0002-0007-921X
+    username: ~Guanyi_Chen1
+  - dblp_id: https://dblp.org/pid/11/7536
+    emails: c.lin@sheffield.ac.uk
+    first_name: Chenghua
+    google_scholar_id: https://scholar.google.co.uk/citations?user=Tp1RdIQAAAAJ&hl=en
+    homepage: https://chenghualin.wordpress.com/
+    institution: University of Sheffield
+    last_name: Lin
+    name: Chenghua Lin
+    username: ~Chenghua_Lin1
+  - dblp_id: https://dblp.org/pid/21/3710
+    emails: e.reiter@abdn.ac.uk
+    first_name: Ehud
+    homepage: http://ehudreiter.com
+    institution: University of Aberdeen
+    last_name: Reiter
+    name: Ehud Reiter
+    username: ~Ehud_Reiter1
+  decision: Accept (Oral)
+  file: 2.pdf
+  id: 2
+  openreview_id: 55TsmA-9jHC
+  pdf_file: 6ec0ede917f8f383aa24e00a89320244bcf135d2.pdf
+  title: 'DrivingBeacon: Driving Behaviour Change Support System Considering Mobile
+    Use and Geo-information'
+- abstract: Summarization of doctor-patient conversations into clinical notes by medical
+    scribes is an essential process for effective clinical care. Pre-trained transformer
+    models have shown a great amount of success in this area, but the domain shift
+    from standard NLP tasks to the medical domain continues to present challenges.
+    We build upon several recent works to show that additional pre-training with in-domain
+    medical conversations leads to performance gains for clinical summarization. In
+    addition to conventional evaluation metrics, we also explore a clinical named
+    entity recognition model for concept-based evaluation. Finally, we contrast long-sequence
+    transformers with a common transformer model, BART. Overall, our findings corroborate
+    research in non-medical domains and suggest that in-domain pre-training combined
+    with transformers for long sequences are effective strategies for summarizing
+    clinical encounters.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/250/2439
+    emails: colingrambow@gmail.com
+    first_name: Colin
+    google_scholar_id: https://scholar.google.com/citations?user=WfRi2K4AAAAJ&hl=en
+    institution: 3M
+    last_name: Grambow
+    middle_name: A.
+    name: Colin A. Grambow
+    orcid: https://orcid.org/0000-0002-2204-9046
+    semantic_scholar_id: https://www.semanticscholar.org/author/Colin-A.-Grambow/46973135?sort=influence
+    username: ~Colin_A._Grambow1
+  - emails: longxiaz@alumni.cmu.edu
+    first_name: Longxiang
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=JZaaMWcAAAAJ
+    last_name: Zhang
+    name: Longxiang Zhang
+    username: ~Longxiang_Zhang1
+  - dblp_id: https://dblp.org/pid/75/5600
+    emails: tschaaf@reihl-schaaf.net
+    first_name: Thomas
+    google_scholar_id: https://scholar.google.com/citations?user=gyDVO1IAAAAJ&hl=en
+    last_name: Schaaf
+    name: Thomas Schaaf
+    orcid: https://orcid.org/0000-0002-9569-4759
+    semantic_scholar_id: https://www.semanticscholar.org/author/Thomas-Schaaf/145849024
+    username: ~Thomas_Schaaf2
+  decision: Accept (Oral)
+  file: 3.pdf
+  id: 3
+  openreview_id: 31MsIi2MPX6
+  pdf_file: eb18666c814c13798f52558e35e38428bbda1a38.pdf
+  title: In-Domain Pre-Training Improves Clinical Note Generation from Doctor-Patient
+    Conversations
+- abstract: 'Community question answering forums provide a convenient platform for
+    people to source answers to their questions including those related to healthcare
+    from the general public. The answers to user queries are generally long and contain
+    multiple different perspectives, redundancy or irrelevant answers. This presents
+    a novel challenge for domain-specific concise and correct multi-answer summarization
+    which we propose in this paper. '
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: abhatt62@uic.edu
+    first_name: Abari
+    institution: University of Illinois at Chicago
+    last_name: Bhattacharya
+    name: Abari Bhattacharya
+    username: ~Abari_Bhattacharya1
+  - emails: rchatu2@uic.edu
+    first_name: Rochana
+    google_scholar_id: https://scholar.google.com/citations?user=JPOzh-UAAAAJ&hl=en
+    last_name: Chaturvedi
+    name: Rochana Chaturvedi
+    username: ~Rochana_Chaturvedi1
+  - dblp_id: https://dblp.org/pid/206/5459
+    emails: yshweta73@gmail.com
+    first_name: Shweta
+    google_scholar_id: https://scholar.google.com/citations?user=dMK8VBkAAAAJ&hl=en
+    homepage: https://shwetanlp.github.io/
+    last_name: Yadav
+    name: Shweta Yadav
+    username: ~Shweta_Yadav1
+  decision: Accept (Oral)
+  file: 4.pdf
+  id: 4
+  openreview_id: 87EBu3m9yxy
+  pdf_file: 3f28accdff9afbd9b29a542471b9d3d40e078b70.pdf
+  title: Towards Development of an Automated Health Coach
+- abstract: 'In this paper we present the main components of a weekly diet report
+    generator (DRG) in natural language. The idea is to produce a text that contains
+    information on the adherence  of the dishes eaten during a week to the Mediterranean
+    diet. The system is based on a user model, a database of the dishes eaten during
+    the week and on the automatic computation of the Mediterranean Diet Score. All
+    these sources of information are exploited to produce a highly personalized text.
+
+    The system has two main goals, related to two different kinds of users: on the
+    one hand, when used by dietitians, the main goal is to highlight the most salient
+    medical information of the patient diet and, on the other hand, when used by final
+    users, the main goal is to educate them toward a Mediterranean style of eating.'
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: elena.monfroglio@edu.unito.it
+    first_name: Elena
+    last_name: Monfroglio
+    name: Elena Monfroglio
+    username: ~Elena_Monfroglio1
+  - emails: anselma@di.unito.it
+    first_name: anselma@di.unito.it
+    institution: NA
+    last_name: anselma@di.unito.it
+    name: anselma@di.unito.it
+    username: anselma@di.unito.it
+  - dblp_id: https://dblp.org/pid/40/1899
+    emails: mazzei@di.unito.it
+    first_name: Alessandro
+    institution: University of Turin
+    last_name: Mazzei
+    name: Alessandro Mazzei
+    username: ~Alessandro_Mazzei1
+  decision: Accept (Oral)
+  file: 6.pdf
+  id: 6
+  openreview_id: CWmqL6UB0rF
+  pdf_file: b87c651d4aa5a20e4ae1995f7e5623b1c437dfd0.pdf
+  title: Personalizing Weekly Diet Reports

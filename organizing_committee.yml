@@ -1,0 +1,151 @@
+- role: Program Chair
+  members:
+    - first_name: Samira 
+      last_name: Shaikh
+    - first_name: Thiago
+      middle_name: Castro
+      last_name: Ferreira
+- role: Local Chair
+  members:
+    - first_name: Amanda 
+      last_name: Stent
+- role: Invited Speakers
+  members:
+    - first_name: Dimitra
+      last_name: Gkatzia
+      institution: Edinburgh Napier University, UK
+    - first_name: Emiel 
+      last_name: Krahmer
+      institution: Tilburg University
+    - first_name: Margaret
+      last_name: Mitchell
+      institution: HuggingFace
+    - first_name: Mohit
+      last_name: Bansal
+      institution: University of North Carolina (UNC) Chapel Hill
+- role: SIGGEN Representatives
+  members:
+    - first_name: Ehud 
+      last_name: Reiter
+    - first_name: Emiel
+      last_name: Van Miltenburg
+- role: Tutorial and Hackathon Chair
+  members:
+    - first_name: Joshua
+      last_name: Maynez
+- role: Publication Chair
+  members:
+    - first_name: Miruna
+      last_name: Clinciu
+- role: GenChal Chair
+  members:
+    - first_name: Anastasia
+      last_name: Shimorina
+- role: GenChal PC
+  members:
+    - first_name: Khyathi
+      last_name: Chandu
+      institution: CMU, US
+    - first_name: Claire
+      last_name: Gardent
+      institution: CNRS/LORIA, France
+    - first_name: Nikolai
+      last_name: Ilinykh
+      institution: University of Gothenburg, Sweden
+    - first_name: Simon 
+      last_name: Mille
+      institution: Universitat Pompeu Fabra, Spain
+    - first_name: Shereen
+      last_name: Oraby
+      institution: Amazon, US
+- role: Sponsor Chair
+  members:
+    - first_name: Dave
+      last_name: Howcroft
+- role: Social Media Chair
+  members:
+    - first_name: Luou (Lilly)
+      last_name: Wen
+- role: Area Chairs
+  members:
+    - first_name: Albert
+      last_name: Gatt
+    - first_name: Chris
+      last_name: van der Lee
+    - first_name: Claire
+      last_name: Gardent
+    - first_name: Dimitra
+      last_name: Gkatzia
+    - first_name: Fei
+      last_name: Liu
+    - first_name: Malihe
+      last_name: Alikhani
+    - first_name: Michael
+      last_name: White
+    - first_name: Saad 
+      last_name: Mahamood
+    - first_name: Tirthankar 
+      last_name: Ghosal 
+    - first_name: Yufang
+      last_name: Hou
+- role: Local Organizing Team
+  members:
+    - first_name: Amy
+      last_name: Poulin
+    - first_name: Charlotte
+      last_name: Buswick
+    - first_name: Jake
+      last_name: Rogers
+- role: NLG4Health Chair
+  members:
+    - first_name: Ehud
+      last_name: Reiter
+- role: NLG4Health Organizers
+  members:
+    - first_name: Emiel
+      last_name: Krahmer
+      institution: Tilburg University
+    - first_name: Kathy 
+      last_name: McCoy 
+      institution: University of Delaware
+    - first_name: Ehud
+      last_name: Reiter
+      institution: University of Aberdeen
+- role: NLG4Health PC
+  members:
+    - first_name: Erkan 
+      last_name: Basar
+      institution: Radboud University, The Netherlands
+    - first_name: Tibor
+      last_name: Bosse
+      institution: Radboud University, The Netherlands
+    - first_name: Daniel
+      last_name: Braun 
+      institution: Twente University, The Netherlands
+    - first_name: Barbara
+      last_name: di Eugenio
+      institution: University of Illinois, USA
+    - first_name: Albert
+      last_name: Gatt
+      institution: Utrecht University, The Netherlands
+    - first_name: Aki
+      last_name: Harma
+      institution: Philips Research, The Netherlands
+    - first_name: Saar
+      last_name: Hommes 
+      institution: Tilburg University, The Netherlands
+    - first_name: Saad
+      last_name: Mahamood
+      institution: Trivago, Germany
+    - first_name: Francesco
+      last_name: Moramarco
+      institution: University of Aberdeen, UK
+    - first_name: Natalie
+      last_name: Parde
+      institution: University of Illinois, USA
+    - first_name: Stefan
+      last_name: Pauws
+      institution: Philips Research, The Netherlands
+    - first_name: Thomas
+      last_name: Schaaf
+      institution: CMU, USA

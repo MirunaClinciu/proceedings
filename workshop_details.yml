@@ -1,0 +1,19 @@
+book_title: Proceedings of the First Workshop on Natural Language Generation in Healthcare
+event_name: The First Workshop on Natural Language Generation in Healthcare
+cover_subtitle: Proceedings of the Workshop
+anthology_venue_id: NLG4Health
+start_date: 2022-07-18
+end_date: 2022-07-18
+isbn: 978-1-955917-63-6
+location: Waterville, Maine, USA and virtual meeting
+editors:
+  - first_name: Emiel
+    last_name: Krahmer
+  - first_name: Kathy
+    last_name: McCoy
+  - first_name: Ehud
+    last_name: Reiter
+
+publisher: Association for Computational Linguistics
+volume_name: 1
+watermark_book_title: Proceedings of the First Workshop on Natural Language Generation in Healthcare (NLG4Health)
